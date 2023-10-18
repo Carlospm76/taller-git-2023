@@ -20,7 +20,7 @@ En este taller de introducción a `git` y [GitHub][1] aprenderemos los comandos 
   2.3 [*Pull Requests* en GitHub](#pull-requests-en-github)  
   2.4 [*Issues* en GitHub](#issues-en-github)  
 
-# `git`
+# 1. `git`
 
 ## Instalación y configuración de `git`
 
